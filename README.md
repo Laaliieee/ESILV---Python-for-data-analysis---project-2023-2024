@@ -6,7 +6,7 @@ We do our project on Drug Consumption with the dataset published in the website 
 
 Indeed, drugs, whether legal or illegal, are a real scourge in our society given the behavioral, physical and psychological impacts of those who are dependent on them.
 
-We try to follow an approach to see the impacts of the conusmption of drug on people with variables given in the dataset such as : extravartion, neuroticism, openness to experience, agreeableness, conscientiousnes, impulsivity and sensation seeing.
+We try to follow an approach to see the impacts of the consumption of drug on people with variables given in the dataset such as : extravartion, neuroticism, openness to experience, agreeableness, conscientiousnes, impulsivity and sensation seeing.
 
 Our study also focuses on other characteristics that can drive or explain drug use: age, ethnicity, country, gender and education.
 
