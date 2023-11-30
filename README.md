@@ -33,19 +33,20 @@ This dataset allows us to apply differents method of prediction :
 0.48246 : 'Female'
 
 -0.48246 : 'Male'
+
 - Education
  
-2.43591	Left School Before 16 years
+-2.43591	Left School Before 16 years
   
-1.73790	Left School at 16 years	
+-1.73790	Left School at 16 years	
 
-1.43719	Left School at 17 years	
+-1.43719	Left School at 17 years	
 
-1.22751	Left School at 18 years	
+-1.22751	Left School at 18 years	
 
-0.61113	Some College,No Certificate Or Degree	
+-0.61113	Some College,No Certificate Or Degree	
 
-0.05921	Professional Certificate/ Diploma	
+-0.05921	Professional Certificate/ Diploma	
 
 0.45468	University Degree	
 
