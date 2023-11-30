@@ -12,7 +12,7 @@ Our study also focuses on other characteristics that can drive or explain drug u
 
 We have chosen to respond through this notebook to different problems: 
 
-- **Can a person's gender be predicted only through their drug consumption habits.**
+- **Can a person's gender be predicted only through their legal drug consumption habits.**
 - **Can the gender of a person be predicted through all the parameters of the dataset**
 - **Drug use based on personality analysis**
 
