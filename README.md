@@ -28,13 +28,14 @@ This dataset allows us to apply differents method of prediction :
 **Shape**: 1884 rows × 32 columns
 
 **Columns and signification**:
-- Genre
+
+- *Genre*
 
 0.48246 : 'Female'
 
 -0.48246 : 'Male'
 
-- Education
+- *Education*
  
 -2.43591	Left School Before 16 years
   
@@ -54,7 +55,7 @@ This dataset allows us to apply differents method of prediction :
 
 1.98437	Doctorate Degree	
 
-- Age
+- *Age*
   
 0.95197: '18-24'
   
@@ -68,7 +69,7 @@ This dataset allows us to apply differents method of prediction :
 
 2.59171: '65+'
 
-- Country
+- *Country*
 
 -0.09765 : 'Australia',
 
@@ -84,7 +85,7 @@ This dataset allows us to apply differents method of prediction :
      
 -0.57009 : 'USA'
 
-- Ethinicity
+- *Ethinicity*
 -0.50212 : 'Asian',
   
 -1.10702 : 'Black',
@@ -99,7 +100,7 @@ This dataset allows us to apply differents method of prediction :
 
 -0.31685 : 'White'
 
-Frequence = {
+*Frequence* = {
      'CL0' : 'Never Used',
      'CL1' : 'Used over a Decade Ago',
      'CL2'  : 'Used in Last Decade',
